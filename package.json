@@ -1,0 +1,50 @@
+
+{
+  "name": "react-native-material-dropdown-mod",
+  "version": "1.0.0",
+  "description": "Material dropdown mod",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/varburg/react-native-material-dropdown-mod.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "material",
+    "dropdown",
+    "spinner",
+    "select"
+  ],
+
+  "author": "Alexander Nazarov <n4kz@n4kz.com>",
+  "modified": "Mihail Milushev <mmilushev@varburg.com>",
+
+  "license": "BSD-3-Clause",
+
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+
+  "devDependencies": {
+    "babel-eslint": "^8.0.0",
+    "eslint": "^4.5.0",
+    "eslint-plugin-react": "^7.0.0"
+  },
+
+  "dependencies": {
+    "prop-types": "^15.5.9",
+    "react-native-material-buttons": "^0.5.0",
+    "react-native-material-ripple": "^0.8.0",
+    "react-native-material-textfield": "^0.12.0"
+  }
+}
